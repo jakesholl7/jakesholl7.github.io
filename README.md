@@ -1,6 +1,18 @@
 # Welcome to GitHub
 
+[![MCPize](https://mcpize.com/badge/@jakesholl7/jakesholl7-github-io)](https://mcpize.com/mcp/jakesholl7-github-io)
+
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+
+## Connect via MCPize
+
+Use this MCP server instantly with no local installation:
+
+```bash
+npx -y mcpize connect @jakesholl7/jakesholl7-github-io --client claude
+```
+
+Or connect at: **https://mcpize.com/mcp/jakesholl7-github-io**
 
 ## Repositories
 
